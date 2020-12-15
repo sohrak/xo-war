@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">XO War!</string>
+<string name="menu_about">About</string>
+<string name="menu_new_game">New Game</string>
+<string name="copyright">XO War! A Tic-Tac-Toe Game\n(c) 2009 Cory Sohrakoff</string>
+<string name="OK">OK</string>
+<string name="players_1">1 Player Game</string>
+<string name="players_2">2 Player Game</string>
+<string name="player_1_turn">Player 1\'s Turn</string>
+<string name="player_2_turn">Player 2\'s Turn</string>
+<string name="cpu_turn">CPU Player\'s Turn</string>
+<string name="player_1_win">Player 1 Wins!</string>
+<string name="player_2_win">Player 2 Wins!</string>
+<string name="cpu_win">CPU Player Wins!</string>
+</resources>
